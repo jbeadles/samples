@@ -6,12 +6,12 @@ I have also included links to some of these projects below.
 
 ### Example Projects
 
-[Beard Brain Solutions](beardbrainatx.com)
+[Beard Brain Solutions](http://www.beardbrainatx.com)
 
 * Company that my wife and I own to do freelancing work
   * Built as a SPA using Angular
 
-[Maraya Chasney Photography](mcp.beardbrainatx.com)
+[Maraya Chasney Photography](http://mcp.beardbrainatx.com)
 
 * Custom photograpy CMS built using Node/Express
   * Allows for uploading of images and nesting them as Galleries>Albums>Images
